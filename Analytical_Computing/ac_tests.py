@@ -721,6 +721,8 @@ def test_verkeer_posities(get_data, bereken_posities, vind_botsing):
 
         (t,ca,cap,cb,cbp) = vind_botsing(time,car1_position,car2_position,car3_position)
 
+        # OPMERKING YOUSSEF: Sinds ik een lijst return (ivm plt.scatter) heb ik onderstaande code
+        # deels aangepast zodat deze indexeert naar de eerste botsing in de lijst.
         def test_time(self):
             np.testing.assert_equal(self.t[0], 28.2)
         def test_car_a(self):
