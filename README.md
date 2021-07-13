@@ -1,1 +1,1 @@
-Deze repository bestaat uit een collectie van huiswerkopdrachten. Navigeer naar desbetreffende cursusnaam om de bijbehorende opdrachten in te zien.
+Deze repository bestaat uit een collectie van huiswerkopdrachten. Navigeer naar de desbetreffende cursusnaam om de bijbehorende opdrachten in te zien.
